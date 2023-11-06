@@ -1,2 +1,5 @@
-Data read from input.txt: Enim in proident non sunt duis consequat nulla sunt qui cupidatat.. 
- Created On Fri Nov 03 2023 16:41:27 GMT+0530 (India Standard Time)
+Random Text - Enim in proident non sunt duis consequat nulla sunt qui cupidatat.
+
+The content of this file will be appended to the content of input.txt and will be written in output.txt file.
+
+Date create Mon Nov 06 2023 11:57:27 GMT+0530 (India Standard Time)
